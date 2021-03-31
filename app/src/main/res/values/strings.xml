@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MusicMixer</string>
+    <string-array name="music_names">
+        <item>Go Tech Go!</item>
+        <item>Cheering</item>
+        <item>Clapping</item>
+        <item>Lets Go Hokies!</item>
+    </string-array>
+</resources>
